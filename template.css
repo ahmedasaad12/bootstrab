@@ -1,0 +1,20 @@
+*{
+
+}
+body{
+    background-color:
+}
+
+.start {
+    background-image: url(/php/bootstap2/assets/img/header-bg.jpg);
+    background-repeat: no-repeat;
+background-size: px;
+    
+}
+section .timeline{
+    width: 35%;
+}
+.contact1 {
+background-image: url(/php/bootstap2/assets/img/map-image.png);
+background-color: black;
+}
